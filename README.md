@@ -88,5 +88,9 @@
 </p>
 
 ---
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/shivam12-ui558/shivam12-ui558/blob/output/github-contribution-grid-snake.svg)
+
 
 ✨ _Thanks for visiting my profile! Let's connect and build something awesome together!_
